@@ -46,10 +46,10 @@ Structured Report + SWOT + Competitor Table
 Markdown Export
 ```
 
-## Setup Instructions
+## Setup Instructions (For Ollama)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AutoResearch_AI.git
+git clone https://github.com/vimaladityaraj/AutoResearch_AI.git
 cd AutoResearch_AI
 copy .env.example .env
 pip install -r requirements.txt
