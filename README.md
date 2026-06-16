@@ -85,19 +85,6 @@ https://stripe.com/about
 https://en.wikipedia.org/wiki/Stripe,_Inc.
 ```
 
-## Portfolio Skills Demonstrated
-
-- AI agent workflow design
-- Local LLM integration
-- Prompt engineering for structured business reports
-- Web text extraction and summarization
-- Competitive-intelligence automation
-- FastAPI + Streamlit full-stack development
-- Markdown report generation
-
-## Resume Bullet
-
-Built AutoResearch AI, an autonomous competitive-intelligence agent using FastAPI, Streamlit, BeautifulSoup, and Ollama to collect public sources, summarize evidence, compare competitors, generate SWOT analysis, and export structured market research reports.
 
 ## Future Improvements
 
