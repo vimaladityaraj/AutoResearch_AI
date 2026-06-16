@@ -2,7 +2,9 @@
 
 AutoResearch AI is a local-first AI research agent that generates structured competitive-intelligence reports from public web pages and user-provided URLs. It combines a FastAPI backend, Streamlit frontend, source collection, summarization, SWOT analysis, competitor profiling, and Ollama-powered local LLM inference.
 
-![AutoResearch AI Home](assets/home.png)
+![AutoResearch AI Home](assets/home-auto.png)
+
+![AutoResearch AI Extraction](assets/extraction-auto.png)
 
 ## Features
 
